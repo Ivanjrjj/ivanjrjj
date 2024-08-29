@@ -1,8 +1,7 @@
 ## Eai, me chamo Ivan Junior.
 
-- 🌱 Estudo ADS, Atualmente estudando as linguagens:HTML,CSS,JS,PHP,MYSQL
+- 🌱 Estudo ADS, Atualmente estudando as linguagens:HTML,CSS,JS,PHP,MYSQL,Typescript
 - 📫 Meu contato: Ivanjrba@gmail.com  
-- 👜 Em Busca de uma oportunidade de Estágio.
 
   <ul><img align="right" alt="ivan" height="250"  src="https://static.imgs.app/content/2.0.0/assetz/uploads/fun/09/21/13/04/K2rCzbZ4ahJ1C4WcohZQFMatQI6FeN71hc3QimJTAx6IqeEvIQVTJdjXzUl3-7825782201632240268-487485-lg.gif"></ul>
 <div align="center">
@@ -20,6 +19,9 @@
   <img align="center" alt="ivanCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="ivanPHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="ivanmysql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="ivanmysql" height="50" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
+    <img align="center" alt="ivanmysql" height="50" width="40" src="https://www.svgrepo.com/show/439290/react.svg">
+
 
   </div>
   
