@@ -3,7 +3,6 @@
 - 🌱 Estudo ADS, Atualmente estudando as linguagens:HTML,CSS,JS,PHP,MYSQL,Typescript
 - 📫 Meu contato: Ivanjrba@gmail.com  
 
-  <ul><img align="right" alt="ivan" height="250"  src="https://static.imgs.app/content/2.0.0/assetz/uploads/fun/09/21/13/04/K2rCzbZ4ahJ1C4WcohZQFMatQI6FeN71hc3QimJTAx6IqeEvIQVTJdjXzUl3-7825782201632240268-487485-lg.gif"></ul>
 <div align="center">
   <a href="https://github.com/ivanjrjj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanjrjj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
