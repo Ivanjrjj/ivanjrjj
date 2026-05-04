@@ -31,8 +31,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanjrjj&show_icons=true&theme=radical&hide_border=true)
 ---
 
 ## 📫 Contato
