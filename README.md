@@ -1,15 +1,25 @@
-# 👋 Olá, eu sou Ivan Junior
+# 👨🏾‍💻 Ivan Junior
 
-💻 Desenvolvedor focado em Front-end e suporte N1/N2  
-🚀 Formado em Análise e Desenvolvimento de Sistemas (ADS)  
-🎯 Buscando oportunidade como desenvolvedor  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end;Suporte+N1+%2F+N2;Apaixonado+por+Tecnologia;Sempre+aprendendo+🚀">
+</p>
+
+---
+
+## 👋 Sobre mim
+
+💻 Desenvolvedor focado em Front-end  
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🚀 Buscando oportunidade como desenvolvedor  
+📍 Salvador - BA  
 
 ---
 
 ## 🚧 Atualmente
-- 📚 Estudando JavaScript e React
-- 💻 Desenvolvendo projetos pessoais
-- 🚀 Aprendendo mais sobre APIs
+
+- 📚 Estudando React e JavaScript avançado  
+- 💻 Criando projetos reais  
+- 🔥 Evoluindo todos os dias na área tech  
 
 ---
 
@@ -50,7 +60,10 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanjrjj&show_icons=true&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivanjrjj&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanjrjj&layout=compact&theme=dark"/>
+</p>
 
 ---
 
@@ -72,4 +85,6 @@
 
 ---
 
-⭐ Sempre buscando evoluir e aprender mais sobre tecnologia!
+## ⚡ Frase
+
+> "Evolução constante é melhor que perfeição parada."
