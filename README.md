@@ -36,9 +36,7 @@
 ---
 
 ## 📊 Estatísticas
-
 ![Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark)
-
 ---
 
 ## 📫 Contato
